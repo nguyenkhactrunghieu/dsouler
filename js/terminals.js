@@ -185,7 +185,7 @@ function info() {
         "  <div><span id='terminalSpanText'>Ages</span>: skid </div>\n" +
         "  <div><span id='terminalSpanText'>Discord</span>: <a href=\"https://discord.com\" target='_blank'>Souler#0001</a></div>\n" +
         "  <div> <span id='terminalSpanText'>Facebook </span> : <span id='terminalHelpText'> <a href=\"https://fb.com/100067421732632/\" target='_blank'>click here</a> \n</span></div>\n" +
-        "  <div><span id='terminalSpanText'>Youtube</span>: <a href=\"https://www.youtube.com/channel/@KoolSoulVN\" target='_blank'>dsouler</a></div>\n" +
+        "  <div><span id='terminalSpanText'>Youtube</span>: <a href=\"https://www.youtube.com/channel/UCbOL4SZp4f05qUziuXVFmSg\" target='_blank'>dsouler</a></div>\n" +
         "  <div style=\"clear: both;\">";
 }
 
